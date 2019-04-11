@@ -24,18 +24,18 @@
   <!--- This is a comment. It won't show up in the page, but you will be able to see it if you view the page source (be warned!) -->
 
 
-  <h2>Lists</h2>
-  <p>Html has two basic types of list:</p>
+  <h2>C:\Users\maria\Desktop\beginners-week-one\duck.jpg</h2>
+  <p>fun</p>
 
   <ol>
-    <li>Ordered lists (&lt;ol&gt;) - displays a numbered list</li>
-    <li>Unordered lists (&lt;ul&gt;) - displays a list of bullet points</li>
+    <li>music</li>
+    <li>friendss</li>
   </ol>
 
-  <p>Both have the same basic structure.</p>
+  <p>movies</p>
 
   <ul>
-    <li>An opening list tag</li>
+    <li>time organised</li>
     <li>Many list items (&lt;li&gt;)</li>
     <li>A closing list tags</li>
   </ul>
@@ -61,8 +61,8 @@
   <p>Tables are used for holding data</p>
   <table class='table'>
     <tr>
-      <th>Name</th>
-      <th>Profession</th>
+      <th>Mariana</th>
+      <th>bloger</th>
     </tr>
     <tr>
       <td>Rosamund</td>
